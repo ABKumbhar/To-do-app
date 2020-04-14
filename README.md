@@ -1,6 +1,6 @@
 # To-do-app
 The website link is as follows : https://todoapp-aniket.herokuapp.com/
-[Or click here](https://todoapp-aniket.herokuapp.com/)
+
 
 I have build this app as personal project in Django, REST-API, Javascript, Bootstrap and HTML. 
 
